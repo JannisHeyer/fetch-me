@@ -143,5 +143,20 @@
     "id": 28,
     "name": "Hexenpfännsche",
     "category": "Fleisch"
+  },
+    {
+    "id": 29,
+    "name": "Bremer Knipp",
+    "category": "Fleisch"
+  },
+    {
+    "id": 30,
+    "name": "Gebratene Stinte",
+    "category": "Fleisch"
+  },
+     {
+    "id": 31,
+    "name": "Bremer Babbeler",
+    "category": "Snacks"
   }
 ]
